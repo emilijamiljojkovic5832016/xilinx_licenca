@@ -1,0 +1,45 @@
+# ----- REMOVE LINES ABOVE HERE --------------------------
+#
+# This license is valid from Sat Apr 15 13:34:12 UTC 2017.
+#
+# This is license NODELOCKED to HOSTID=ANY;
+# there is no need to run lmgrd for this license.
+#
+#
+# This is a permanent license generated on Sat Apr 15 13:34:12 UTC 2017
+INCREMENT SDK xilinxd 2018.04 permanent uncounted 841B372183C2 \
+VENDOR_STRING=miljojkovicemilija,SDK,software,permanent,_211342149_0_0_162 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=15-Apr-2017 TS_OK
+#
+# This is a permanent license generated on Sat Apr 15 13:34:12 UTC 2017
+INCREMENT Analyzer xilinxd 2018.04 permanent uncounted 10BABFFFC20F \
+VENDOR_STRING=miljojkovicemilija,Analyzer,software,permanent,_211342149_0_0_024 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=15-Apr-2017 TS_OK
+#
+# This is a permanent license generated on Sat Apr 15 13:34:12 UTC 2017
+INCREMENT HLS xilinxd 2018.04 permanent uncounted FAB9925AB06F \
+VENDOR_STRING=miljojkovicemilija,HLS,software,permanent,_211342149_0_0_308 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=15-Apr-2017 TS_OK
+#
+# This is a permanent license generated on Sat Apr 15 13:34:12 UTC 2017
+INCREMENT V_WebPACK xilinxd 2018.04 permanent uncounted 6CF122020699 \
+VENDOR_STRING=miljojkovicemilija,V_WebPACK,software,permanent,_211342149_0_0_067 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=15-Apr-2017 TS_OK
+#
+# This is a permanent license generated on Sat Apr 15 13:34:12 UTC 2017
+INCREMENT ISE_WebPACK xilinxd 2018.04 permanent uncounted \
+06CDC7A0616D \
+VENDOR_STRING=miljojkovicemilija,ISE_WebPACK,software,permanent,_211342149_0_0_375 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=15-Apr-2017 TS_OK
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE ISE_WebPACK xilinxd 2018.04 188268F149C1 COMPONENTS="SDK \
+ChipScopePro_SIOTK ChipscopePro WebPACK XC7Z010 XC7Z030 HLS \
+xps_tdp XC7Z020 PlanAhead" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+# ----- REMOVE LINES BELOW HERE --------------------------
